@@ -1,4 +1,4 @@
-#Fuktigt som Helvete
+#Mysig
 
 My personal github pages blog.
 
